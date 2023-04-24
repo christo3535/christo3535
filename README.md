@@ -7,6 +7,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <h3>Framworks :</h3>
 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 
 <!--
 **christo3535/christo3535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
