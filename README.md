@@ -1,4 +1,5 @@
 ### Hi there 👋 i am Christo.
+🌱 I’m currently learning front-end developement
 
 <h2>I’m currently working on :</h2>
 
@@ -21,7 +22,6 @@
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
  
-🌱 I’m currently learning front-end developement
  
 <!--
 **christo3535/christo3535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
