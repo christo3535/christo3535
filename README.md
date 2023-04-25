@@ -1,4 +1,4 @@
-### Hi there 👋 :i am Christo.
+### Hi there 👋 : i am Christo.
 ### 🌱 I’m currently learning front-end developement
 
 <h3>I’m  working on :</h3>
