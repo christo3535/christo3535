@@ -1,5 +1,6 @@
 ### Hi there 👋 i am Christo.
 <h2>I’m currently working on :</h2>
+<h2>🌱 I’m currently learning <h2>
 
 ### Languages : 
 
