@@ -1,7 +1,7 @@
 ### Hi there 👋 i am Christo.
-🌱 I’m currently learning front-end developement
+### 🌱 I’m currently learning front-end developement
 
-<h2>I’m currently working on :</h2>
+<h3>I’m  working on :</h3>
 
 
 ### Languages : 
